@@ -1,0 +1,8 @@
+1) Go to Code tab in the top left.
+
+2) You should see the default branch, which is main.
+
+3) Click the dropdown menu and type a name for your new branch, which won't be the default.
+
+  4) Since your sub-branch was created from the main branch, all the main branch files will appear in the
+  sub-branch file, but the sub-branch files will not appear in main unless they're committed.
